@@ -1,0 +1,586 @@
+{
+  "song": "song.mp3",
+  "song_start": "00:00",
+  "bpm": 140,
+  "first_beat": 0,
+  "fps": 24,
+  "resolution": [
+    1920,
+    1080
+  ],
+  "shots": [
+    {
+      "section": "intro",
+      "beats": 4,
+      "grade": "none",
+      "text": "BLEACH\nTHOUSAND-YEAR BLOOD WAR",
+      "fx": [
+        "fade_in"
+      ]
+    },
+    {
+      "section": "intro",
+      "beats": 4,
+      "grade": "memory",
+      "clip": "clips/02.mp4",
+      "in": "00:00",
+      "note": "Close-up: Orihime's hairpins (Shun Shun Rikka)",
+      "fx": [
+        "letterbox"
+      ]
+    },
+    {
+      "section": "intro",
+      "beats": 4,
+      "grade": "memory",
+      "clip": "clips/03.mp4",
+      "in": "00:00",
+      "note": "Flashback: Orihime and her brother Sora",
+      "fx": [
+        "letterbox"
+      ]
+    },
+    {
+      "section": "intro",
+      "beats": 4,
+      "grade": "none",
+      "text": "ORIHIME INOUE\nvs\nYHWACH",
+      "fx": [
+        "fade_out"
+      ]
+    },
+    {
+      "section": "threat",
+      "beats": 4,
+      "grade": "yhwach",
+      "clip": "clips/05.mp4",
+      "in": "00:00",
+      "note": "Yhwach seen from behind / in silhouette",
+      "fx": [
+        "letterbox"
+      ]
+    },
+    {
+      "section": "threat",
+      "beats": 4,
+      "grade": "yhwach",
+      "clip": "clips/06.mp4",
+      "in": "00:00",
+      "note": "Seireitei burning, Wandenreich invasion"
+    },
+    {
+      "section": "threat",
+      "beats": 4,
+      "grade": "yhwach",
+      "clip": "clips/07.mp4",
+      "in": "00:00",
+      "note": "Close-up: Yhwach's eyes (The Almighty)",
+      "fx": [
+        "punch"
+      ]
+    },
+    {
+      "section": "threat",
+      "beats": 4,
+      "grade": "yhwach",
+      "clip": "clips/08.mp4",
+      "in": "00:00",
+      "note": "Yhwach's blade / the fall of Yamamoto",
+      "fx": [
+        "shake"
+      ]
+    },
+    {
+      "section": "build",
+      "beats": 4,
+      "grade": "orihime",
+      "clip": "clips/09.mp4",
+      "in": "00:00",
+      "note": "Orihime looks up, determined"
+    },
+    {
+      "section": "build",
+      "beats": 4,
+      "grade": "yhwach",
+      "clip": "clips/10.mp4",
+      "in": "00:00",
+      "note": "Yhwach raises his hand"
+    },
+    {
+      "section": "build",
+      "beats": 2,
+      "grade": "orihime",
+      "clip": "clips/11.mp4",
+      "in": "00:00",
+      "note": "Orihime touches her hairpins"
+    },
+    {
+      "section": "build",
+      "beats": 2,
+      "grade": "yhwach",
+      "clip": "clips/12.mp4",
+      "in": "00:00",
+      "note": "Blut veins spread across Yhwach"
+    },
+    {
+      "section": "build",
+      "beats": 2,
+      "grade": "orihime",
+      "clip": "clips/13.mp4",
+      "in": "00:00",
+      "note": "The six fairies fly out"
+    },
+    {
+      "section": "build",
+      "beats": 2,
+      "grade": "yhwach",
+      "clip": "clips/14.mp4",
+      "in": "00:00",
+      "note": "Quincy reishi arrows form"
+    },
+    {
+      "section": "build",
+      "beats": 2,
+      "grade": "clash",
+      "clip": "clips/15.mp4",
+      "in": "00:00",
+      "note": "Cutaway: Ichigo charging"
+    },
+    {
+      "section": "build",
+      "beats": 2,
+      "grade": "yhwach",
+      "clip": "clips/16.mp4",
+      "in": "00:00",
+      "note": "Yhwach smiles"
+    },
+    {
+      "section": "build",
+      "beats": 2,
+      "grade": "orihime",
+      "clip": "clips/17.mp4",
+      "in": "00:00",
+      "note": "Santen Kesshun shield forming"
+    },
+    {
+      "section": "build",
+      "beats": 2,
+      "grade": "yhwach",
+      "clip": "clips/18.mp4",
+      "in": "00:00",
+      "note": "Darkness swallows the sky"
+    },
+    {
+      "section": "build",
+      "beats": 4,
+      "grade": "none",
+      "text": "I REJECT",
+      "fx": [
+        "flash"
+      ]
+    },
+    {
+      "section": "build",
+      "beats": 4,
+      "grade": "orihime",
+      "clip": "clips/20.mp4",
+      "in": "00:00",
+      "note": "Orihime closes her eyes, calm before the drop"
+    },
+    {
+      "section": "drop 1",
+      "beats": 2,
+      "grade": "clash",
+      "clip": "clips/21.mp4",
+      "in": "00:00",
+      "note": "Shield takes the hit",
+      "fx": [
+        "flash",
+        "impact"
+      ]
+    },
+    {
+      "section": "drop 1",
+      "beats": 2,
+      "grade": "yhwach",
+      "clip": "clips/22.mp4",
+      "in": "00:00",
+      "note": "Yhwach's attack lands",
+      "fx": [
+        "shake"
+      ]
+    },
+    {
+      "section": "drop 1",
+      "beats": 2,
+      "grade": "orihime",
+      "clip": "clips/23.mp4",
+      "in": "00:00",
+      "note": "Orihime is pushed back",
+      "fx": [
+        "punch"
+      ]
+    },
+    {
+      "section": "drop 1",
+      "beats": 2,
+      "grade": "clash",
+      "clip": "clips/24.mp4",
+      "in": "00:00",
+      "note": "Ichigo vs Yhwach, blades meet",
+      "fx": [
+        "flash"
+      ]
+    },
+    {
+      "section": "drop 1",
+      "beats": 2,
+      "grade": "clash",
+      "clip": "clips/25.mp4",
+      "in": "00:00",
+      "note": "Santen Kesshun cracks",
+      "fx": [
+        "rgb"
+      ]
+    },
+    {
+      "section": "drop 1",
+      "beats": 2,
+      "grade": "yhwach",
+      "clip": "clips/26.mp4",
+      "in": "00:00",
+      "note": "Yhwach's eyes again, faster",
+      "fx": [
+        "punch"
+      ]
+    },
+    {
+      "section": "drop 1",
+      "beats": 4,
+      "grade": "orihime",
+      "clip": "clips/27.mp4",
+      "in": "00:00",
+      "note": "Soten Kisshun healing dome over Ichigo"
+    },
+    {
+      "section": "drop 1",
+      "beats": 4,
+      "grade": "yhwach",
+      "clip": "clips/28.mp4",
+      "in": "00:00",
+      "note": "Yhwach steps forward",
+      "fx": [
+        "shake"
+      ]
+    },
+    {
+      "section": "drop 1",
+      "beats": 1,
+      "grade": "orihime",
+      "clip": "clips/29.mp4",
+      "in": "00:00",
+      "note": "Orihime, hit frame",
+      "fx": [
+        "flash"
+      ]
+    },
+    {
+      "section": "drop 1",
+      "beats": 1,
+      "grade": "yhwach",
+      "clip": "clips/30.mp4",
+      "in": "00:00",
+      "note": "Yhwach, hit frame",
+      "fx": [
+        "impact"
+      ]
+    },
+    {
+      "section": "drop 1",
+      "beats": 1,
+      "grade": "orihime",
+      "clip": "clips/31.mp4",
+      "in": "00:00",
+      "note": "Fairy streak",
+      "fx": [
+        "flash"
+      ]
+    },
+    {
+      "section": "drop 1",
+      "beats": 1,
+      "grade": "yhwach",
+      "clip": "clips/32.mp4",
+      "in": "00:00",
+      "note": "Arrow volley",
+      "fx": [
+        "impact",
+        "rgb"
+      ]
+    },
+    {
+      "section": "drop 1",
+      "beats": 4,
+      "grade": "clash",
+      "clip": "clips/33.mp4",
+      "in": "00:00",
+      "note": "Wide shot: the clash",
+      "fx": [
+        "shake"
+      ]
+    },
+    {
+      "section": "drop 1",
+      "beats": 4,
+      "grade": "orihime",
+      "clip": "clips/34.mp4",
+      "in": "00:00",
+      "note": "Orihime shouts Ichigo's name",
+      "fx": [
+        "flash"
+      ]
+    },
+    {
+      "section": "bridge",
+      "beats": 8,
+      "grade": "memory",
+      "clip": "clips/35.mp4",
+      "in": "00:00",
+      "note": "Orihime's memories with Ichigo and friends (slow motion)",
+      "speed": 0.5,
+      "fx": [
+        "letterbox",
+        "fade_in"
+      ]
+    },
+    {
+      "section": "bridge",
+      "beats": 4,
+      "grade": "none",
+      "text": "HE SEES EVERY FUTURE."
+    },
+    {
+      "section": "bridge",
+      "beats": 4,
+      "grade": "none",
+      "text": "SHE CAN UNDO ANY ONE."
+    },
+    {
+      "section": "bridge",
+      "beats": 8,
+      "grade": "orihime",
+      "clip": "clips/38.mp4",
+      "in": "00:00",
+      "note": "Orihime gets back up (slow motion)",
+      "speed": 0.5,
+      "fx": [
+        "fade_out"
+      ]
+    },
+    {
+      "section": "drop 2",
+      "beats": 1,
+      "grade": "orihime",
+      "clip": "clips/39.mp4",
+      "in": "00:00",
+      "note": "Orihime rapid cut 1",
+      "fx": [
+        "flash"
+      ]
+    },
+    {
+      "section": "drop 2",
+      "beats": 1,
+      "grade": "yhwach",
+      "clip": "clips/40.mp4",
+      "in": "00:00",
+      "note": "Yhwach rapid cut 1",
+      "fx": [
+        "impact",
+        "rgb"
+      ]
+    },
+    {
+      "section": "drop 2",
+      "beats": 1,
+      "grade": "orihime",
+      "clip": "clips/41.mp4",
+      "in": "00:00",
+      "note": "Orihime rapid cut 2",
+      "fx": [
+        "flash"
+      ]
+    },
+    {
+      "section": "drop 2",
+      "beats": 1,
+      "grade": "yhwach",
+      "clip": "clips/42.mp4",
+      "in": "00:00",
+      "note": "Yhwach rapid cut 2",
+      "fx": [
+        "impact",
+        "rgb"
+      ]
+    },
+    {
+      "section": "drop 2",
+      "beats": 1,
+      "grade": "orihime",
+      "clip": "clips/43.mp4",
+      "in": "00:00",
+      "note": "Orihime rapid cut 3",
+      "fx": [
+        "flash"
+      ]
+    },
+    {
+      "section": "drop 2",
+      "beats": 1,
+      "grade": "yhwach",
+      "clip": "clips/44.mp4",
+      "in": "00:00",
+      "note": "Yhwach rapid cut 3",
+      "fx": [
+        "impact",
+        "rgb"
+      ]
+    },
+    {
+      "section": "drop 2",
+      "beats": 1,
+      "grade": "orihime",
+      "clip": "clips/45.mp4",
+      "in": "00:00",
+      "note": "Orihime rapid cut 4",
+      "fx": [
+        "flash"
+      ]
+    },
+    {
+      "section": "drop 2",
+      "beats": 1,
+      "grade": "yhwach",
+      "clip": "clips/46.mp4",
+      "in": "00:00",
+      "note": "Yhwach rapid cut 4",
+      "fx": [
+        "impact",
+        "rgb"
+      ]
+    },
+    {
+      "section": "drop 2",
+      "beats": 4,
+      "grade": "clash",
+      "clip": "clips/47.mp4",
+      "in": "00:00",
+      "note": "Koten Zanshun: Tsubaki strikes",
+      "fx": [
+        "punch"
+      ]
+    },
+    {
+      "section": "drop 2",
+      "beats": 4,
+      "grade": "yhwach",
+      "clip": "clips/48.mp4",
+      "in": "00:00",
+      "note": "Yhwach's full power aura",
+      "fx": [
+        "shake",
+        "rgb"
+      ]
+    },
+    {
+      "section": "drop 2",
+      "beats": 2,
+      "grade": "orihime",
+      "clip": "clips/49.mp4",
+      "in": "00:00",
+      "note": "Shield up again",
+      "fx": [
+        "flash"
+      ]
+    },
+    {
+      "section": "drop 2",
+      "beats": 2,
+      "grade": "yhwach",
+      "clip": "clips/50.mp4",
+      "in": "00:00",
+      "note": "Yhwach reaches out",
+      "fx": [
+        "punch"
+      ]
+    },
+    {
+      "section": "drop 2",
+      "beats": 2,
+      "grade": "orihime",
+      "clip": "clips/51.mp4",
+      "in": "00:00",
+      "note": "Orihime's hands glowing",
+      "fx": [
+        "flash"
+      ]
+    },
+    {
+      "section": "drop 2",
+      "beats": 2,
+      "grade": "yhwach",
+      "clip": "clips/52.mp4",
+      "in": "00:00",
+      "note": "Yhwach's eyes, final time",
+      "fx": [
+        "impact"
+      ]
+    },
+    {
+      "section": "drop 2",
+      "beats": 4,
+      "grade": "clash",
+      "clip": "clips/53.mp4",
+      "in": "00:00",
+      "note": "The final collision, wide shot",
+      "fx": [
+        "flash",
+        "impact",
+        "shake"
+      ]
+    },
+    {
+      "section": "drop 2",
+      "beats": 4,
+      "grade": "orihime",
+      "clip": "clips/54.mp4",
+      "in": "00:00",
+      "note": "Orihime's light fills the screen",
+      "fx": [
+        "white_out"
+      ]
+    },
+    {
+      "section": "outro",
+      "beats": 8,
+      "grade": "orihime",
+      "clip": "clips/55.mp4",
+      "in": "00:00",
+      "note": "Calm after: Orihime smiles",
+      "fx": [
+        "fade_in",
+        "letterbox"
+      ]
+    },
+    {
+      "section": "outro",
+      "beats": 8,
+      "grade": "none",
+      "text": "REJECTION  //  THE ALMIGHTY",
+      "fx": [
+        "fade_in",
+        "fade_out"
+      ]
+    }
+  ]
+}
